@@ -1,0 +1,28 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces $8$ stable clusters\relax }}{6}
+\contentsline {figure}{\numberline {2}{\ignorespaces Cluster analysis of mRNA data\relax }}{7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {6 stable clusters}}}{7}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Centroids}}}{7}
+\contentsline {figure}{\numberline {3}{\ignorespaces Average noise in each time point\relax }}{8}
+\contentsline {figure}{\numberline {4}{\ignorespaces Performance of \textit {TPS}\xspace by increasing number of selected points\relax }}{9}
+\contentsline {figure}{\numberline {5}{\ignorespaces Expression profiles over several genes a) ERB, b) NME3, c) POL2RA\relax }}{10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {ERB}}}{10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {NME3}}}{10}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {POL2RA}}}{10}
+\contentsline {figure}{\numberline {6}{\ignorespaces Reconstructed expression profiles by $8$ points over genes a) PDGFRA, b) ELN, c) INMT\relax }}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PDGFRA}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {ELN}}}{11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {INMT}}}{11}
+\contentsline {figure}{\numberline {7}{\ignorespaces Comparison of \textit {TPS}\xspace and piecewise linear fitting over genes a) PDGFRA, b) ELN, c) LRAT\relax }}{12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {PDGFRA}}}{12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {ELN}}}{12}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {LRAT}}}{12}
+\contentsline {figure}{\numberline {8}{\ignorespaces Predicted expression profiles of miRNAs a) mmu-miR-100, b) mmu-miR-136, c) mmu-miR-152, d) mmu-miR-219.\relax }}{13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {mmu-miR-100}}}{13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {mmu-miR-136}}}{13}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {mmu-miR-152}}}{13}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {mmu-miR-219}}}{13}
+\contentsline {figure}{\numberline {9}{\ignorespaces Reconstructed methylation profiles over several loci\nobreakspace {}(chromosome, position) with corresponding genes.\relax }}{14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Chromo\nobreakspace {}2, 157423995 (SRC)}}}{14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Chrom.\nobreakspace {}5, 134721315 (ELN)}}}{14}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Chrom.\nobreakspace {}12, 112657170 (AKT1)}}}{14}
+\contentsline {figure}{\numberline {10}{\ignorespaces Distribution of gene expression correlation for loci of each gene\relax }}{15}

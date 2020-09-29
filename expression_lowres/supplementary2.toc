@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Supplementary Methods}{2}
+\contentsline {subsection}{\numberline {1.1}\textit {TPS}\xspace Algorithm}{2}
+\contentsline {subsection}{\numberline {1.2}Fitting Smoothing Spline}{2}
+\contentsline {section}{\numberline {2}Supplementary Results}{4}
+\contentsline {subsection}{\numberline {2.1}Settings for \textit {TPS}\xspace testing}{4}
+\contentsline {subsection}{\numberline {2.2}\textit {TPS}\xspace identifies subset of important time points across multiple genes}{4}
+\contentsline {subsection}{\numberline {2.3}miRNA Clusters Are Enriched For Several Biological Processes}{5}
+\contentsline {subsection}{\numberline {2.4}miRNA Reconstruction}{5}
+\contentsline {subsection}{\numberline {2.5}Analysis of Methylation Data}{5}

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{agarwal2015}
+Vikram Agarwal, George~W Bell, Jin-Wu Nam, and David~P Bartel.
+\newblock Predicting effective microrna target sites in mammalian mrnas.
+\newblock {\em eLife}, 4:e05005, 2015.
+
+\bibitem{go}
+Michael Ashburner, Catherine~A Ball, Judith~A Blake, David Botstein, Heather
+  Butler, J~Michael Cherry, Allan~P Davis, Kara Dolinski, Selina~S Dwight,
+  Janan~T Eppig, et~al.
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature genetics}, 25(1):25--29, 2000.
+
+\bibitem{berriz2003}
+Gabriel~F Berriz, Oliver~D King, Barbara Bryant, Chris Sander, and Frederick~P
+  Roth.
+\newblock Characterizing gene sets with funcassociate.
+\newblock {\em Bioinformatics}, 19(18):2502--2504, 2003.
+
+\bibitem{kmeans}
+John~A Hartigan.
+\newblock {\em Clustering algorithms}.
+\newblock John Wiley \& Sons, Inc., 1975.
+
+\bibitem{bic}
+Gideon Schwarz et~al.
+\newblock Estimating the dimension of a model.
+\newblock {\em The annals of statistics}, 6(2):461--464, 1978.
+
+\end{thebibliography}
