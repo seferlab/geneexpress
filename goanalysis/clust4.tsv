@@ -1,0 +1,41 @@
+# species: Mus musculus
+# support: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+# associations retrieved on: 2015-08-16 16:58:31-04
+# gofunc built on: 2014-08-29 20:00:45.229015-04
+# gene associations file: ftp://ftp.geneontology.org/pub/go/gene-associations/gene_association.mgi.gz
+#   revision: 06/05/2014 $
+#   downloaded on: 2014-06-23 12:15:18-04
+# GO DAG files from: http://archive.geneontology.org/latest-full/go_201404-termdb-tables.tar.gz
+#   downloaded on: 2014-04-28 17:00:50-04
+# translation required: yes
+# translation info:
+#   authority: ensembl
+#     synergizer db built on: 2014-02-26 11:38:08.723614-05
+#     synergizer db built from: Ensembl Genes 74 / Ensembl Metazoa Genes 21 / Ensembl Plants Genes 21
+#   namespace: mgi_symbol
+#   coverage: 100.0%
+# size of "genespace": 22607
+# number of attributes: 17970
+# NOTE: the last record consists of all the entities in the
+# "genespace" that are not associated with any attribute (for
+# the requested support).
+# Original number of entities in query: 19
+# Number of entities in query: 18
+# Total number of entities: 22613
+# Original total number of entities: 22607
+# Entities not in default gene space: 6
+# Total number of attributes: 17970
+# Translation required: yes
+# Translation coverage: 0.999722
+# Mode: unordered
+# Number of simulations: 1000
+# Adjusted P-value cutoff: 0.25
+# Over/under: over
+# Evidence codes: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+OVERREPRESENTED ATTRIBUTES
+N	X	LOD	P	P_adj	attrib ID	attrib name
+2	32	2.04960118604906	0.000292648101234752	0.23	GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor
+2	33	2.03557122522991	0.000311381045116509	0.239	GO:0042993	positive regulation of transcription factor import into nucleus
+3	150	1.53613165278702	0.000216986263914811	0.195	GO:0016323	basolateral plasma membrane
+7	1640	0.922687359840774	0.00016237634792757	0.158	GO:0010033	response to organic substance
+9	2587	0.890042701436474	6.10691446302869e-05	0.092	GO:0044421	extracellular region part

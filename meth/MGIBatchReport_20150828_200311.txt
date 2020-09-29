@@ -1,0 +1,139 @@
+Input	Input Type	MGI Gene/Marker ID	Symbol	Name	Feature Type	Chr	Strand	Start	End
+Col1a1	current symbol	MGI:88467	Col1a1	collagen, type I, alpha 1	protein coding gene	11	+	94936224	94953042
+FGF18	current symbol	MGI:1277980	Fgf18	fibroblast growth factor 18	protein coding gene	11	-	33117430	33147400
+Hist1h1b	current symbol	MGI:1861461	Hist1h1b	histone cluster 1, H1b	protein coding gene	13	-	21779883	21780625
+Hist1h2ab	human symbol	MGI:2448293	Hist1h2ag	histone cluster 1, H2ag	protein coding gene	13	-	22042460	22042944
+Hist1h2ab	current symbol	MGI:2448306	Hist1h2ab	histone cluster 1, H2ab	protein coding gene	13	+	23751126	23751598
+P4HA3	current symbol	MGI:2444049	P4ha3	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide III	protein coding gene	7	+	100285520	100319699
+PRSS35	current symbol	MGI:2444800	Prss35	protease, serine 35	protein coding gene	9	+	86743649	86758443
+Shisa3	current symbol	MGI:3041225	Shisa3	shisa family member 3	protein coding gene	5	+	67607883	67623552
+Tnc	synonym	MGI:98779	Tnnc1	troponin C, cardiac/slow skeletal	protein coding gene	14	+	31208312	31211729
+Tnc	current symbol	MGI:101922	Tnc	tenascin C	protein coding gene	4	-	63959785	64020725
+Wif1	current symbol	MGI:1344332	Wif1	Wnt inhibitory factor 1	protein coding gene	10	+	121033960	121100650
+ABCA3	current symbol	MGI:1351617	Abca3	ATP-binding cassette, sub-family A (ABC1), member 3	protein coding gene	17	+	24351950	24410201
+actb	current symbol	MGI:87904	Actb	actin, beta	protein coding gene	5	-	142903115	142906754
+actb	western clawed frog symbol	MGI:1920603	Actrt2	actin-related protein T2	protein coding gene	4	-	154666433	154667867
+AGER	current symbol	MGI:893592	Ager	advanced glycosylation end product-specific receptor	protein coding gene	17	+	34597862	34600936
+Akt	synonym	MGI:87986	Akt1	thymoma viral proto-oncogene 1	protein coding gene	12	-	112653821	112674884
+BCL2A1	human symbol	MGI:1278326	Bcl2a1b	B cell leukemia/lymphoma 2 related protein A1b	protein coding gene	9	+	89199209	89207827
+BCL2A1	old symbol	MGI:102687	Bcl2a1a	B cell leukemia/lymphoma 2 related protein A1a	protein coding gene	9	+	88956900	88962419
+BCL2A1	human symbol	MGI:1278325	Bcl2a1d	B cell leukemia/lymphoma 2 related protein A1d	protein coding gene	9	-	88723285	88731914
+7	HomoloGene	MGI:87911	Acvr1	activin A receptor, type 1	protein coding gene	2	-	58388644	58567157
+EGFR	current symbol	MGI:95294	Egfr	epidermal growth factor receptor	protein coding gene	11	+	16752203	16918158
+EPHA7	current symbol	MGI:95276	Epha7	Eph receptor A7	protein coding gene	4	+	28813131	28967499
+EXT1	current symbol	MGI:894663	Ext1	exostoses (multiple) 1	protein coding gene	15	-	53064038	53346159
+GUSB	current symbol	MGI:95872	Gusb	glucuronidase, beta	protein coding gene	5	-	129989011	130003049
+HIF1alpha	synonym	MGI:106918	Hif1a	hypoxia inducible factor 1, alpha subunit	protein coding gene	12	+	73901375	73947530
+hprt	current symbol	MGI:96217	Hprt	hypoxanthine guanine phosphoribosyl transferase	protein coding gene	X	+	52988137	53021659
+IGF1	current symbol	MGI:96432	Igf1	insulin-like growth factor 1	protein coding gene	10	+	87858265	87937042
+ipo8	current symbol	MGI:2444611	Ipo8	importin 8	protein coding gene	6	-	148770683	148831467
+KRT5	current symbol	MGI:96702	Krt5	keratin 5	protein coding gene	15	-	101707070	101712891
+KRT5	zebrafish symbol	MGI:96705	Krt8	keratin 8	protein coding gene	15	-	101996711	102004342
+PCYOX1	current symbol	MGI:1914131	Pcyox1	prenylcysteine oxidase 1	protein coding gene	6	-	86386006	86397150
+PRIM2	current symbol	MGI:97758	Prim2	DNA primase, p58 subunit	protein coding gene	1	-	33453810	33669795
+rplp2	current symbol	MGI:1914436	Rplp2	ribosomal protein, large P2	protein coding gene	7	+	141447370	141451585
+Src	current symbol	MGI:98397	Src	Rous sarcoma oncogene	protein coding gene	2	+	157418444	157471862
+tfrc	current symbol	MGI:98822	Tfrc	transferrin receptor	protein coding gene	16	+	32608920	32632794
+TGFB1	current symbol	MGI:98725	Tgfb1	transforming growth factor, beta 1	protein coding gene	7	+	25687002	25705077
+THTPA	current symbol	MGI:2446078	Thtpa	thiamine triphosphatase	protein coding gene	14	+	55053884	55098986
+ywhaz	current symbol	MGI:109484	Ywhaz	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	protein coding gene	15	-	36770770	36794547
+ABCD1	current symbol	MGI:1349215	Abcd1	ATP-binding cassette, sub-family D (ALD), member 1	protein coding gene	X	+	73716597	73738534
+ALDH1A2	current symbol	MGI:107928	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	protein coding gene	9	+	71215789	71296243
+AMACR	current symbol	MGI:1098273	Amacr	alpha-methylacyl-CoA racemase	protein coding gene	15	+	10981756	10996624
+Cdh11	current symbol	MGI:99217	Cdh11	cadherin 11	protein coding gene	8	-	102632995	102785111
+Ctnna2	current symbol	MGI:88275	Ctnna2	catenin (cadherin associated protein), alpha 2	protein coding gene	6	-	76881637	77979699
+CTPS2	current symbol	MGI:1933185	Ctps2	cytidine 5'-triphosphate synthase 2	protein coding gene	X	+	162901238	163032508
+Dnmt3a	rat synonym	MGI:2182540	Grhl1	grainyhead-like 1 (Drosophila)	protein coding gene	12	+	24572287	24617391
+Dnmt3a	current symbol	MGI:1261827	Dnmt3a	DNA methyltransferase 3A	protein coding gene	12	+	3806007	3914443
+E2F8	current symbol	MGI:1922038	E2f8	E2F transcription factor 8	protein coding gene	7	-	48866429	48881596
+Eln	current symbol	MGI:95317	Eln	elastin	protein coding gene	5	-	134703781	134747241
+FGFR2	current symbol	MGI:95523	Fgfr2	fibroblast growth factor receptor 2	protein coding gene	7	-	130162451	133123350
+FOXD1	current symbol	MGI:1347463	Foxd1	forkhead box D1	protein coding gene	13	+	98354242	98356703
+GFPT1	current symbol	MGI:95698	Gfpt1	glutamine fructose-6-phosphate transaminase 1	protein coding gene	6	+	87042846	87092197
+hmbs	current symbol	MGI:96112	Hmbs	hydroxymethylbilane synthase	protein coding gene	9	-	44336350	44344228
+HPGDS	current symbol	MGI:1859384	Hpgds	hematopoietic prostaglandin D synthase	protein coding gene	6	-	65117293	65144908
+kcne1L	current symbol	MGI:1913490	Kcne1l	potassium voltage-gated channel, Isk-related family, member 1-like, pseudogene	protein coding gene	X	-	142304752	142306294
+Kcnma1	current symbol	MGI:99923	Kcnma1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	protein coding gene	14	-	23299381	24004859
+KLra4	current symbol	MGI:101904	Klra4	killer cell lectin-like receptor, subfamily A, member 4	protein coding gene	6	-	130043731	130067271
+MCPt4	current symbol	MGI:96940	Mcpt4	mast cell protease 4	protein coding gene	14	-	56059744	56062310
+MGAT4A	current symbol	MGI:2662992	Mgat4a	mannoside acetylglucosaminyltransferase 4, isoenzyme A	protein coding gene	1	-	37439340	37541016
+MMP7	current symbol	MGI:103189	Mmp7	matrix metallopeptidase 7	protein coding gene	9	+	7692090	7699585
+MUC5Ac	current symbol	MGI:104697	Muc5ac	mucin 5, subtypes A and C, tracheobronchial/gastric	protein coding gene	7	+	141788972	141819231
+NDST1	current symbol	MGI:104719	Ndst1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	protein coding gene	18	-	60685978	60713389
+NFATC3	current symbol	MGI:103296	Nfatc3	nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3	protein coding gene	8	+	106059603	106130537
+NME7	current symbol	MGI:2449121	Nme7	NME/NM23 family member 7	protein coding gene	1	+	164304121	164437725
+pgk1	current symbol	MGI:97555	Pgk1	phosphoglycerate kinase 1	protein coding gene	X	+	106187100	106203699
+polr2a	current symbol	MGI:98086	Polr2a	polymerase (RNA) II (DNA directed) polypeptide A	protein coding gene	11	-	69733997	69758637
+ppia	western clawed frog symbol	MGI:3648545	Gm9234	predicted pseudogene 9234	pseudogene	7	-	121015139	121015633
+ppia	current symbol	MGI:97749	Ppia	peptidylprolyl isomerase A	protein coding gene	11	+	6415443	6419817
+PRDX3	current symbol	MGI:88034	Prdx3	peroxiredoxin 3	protein coding gene	19	-	60864051	60874556
+Robo1	current symbol	MGI:1274781	Robo1	roundabout homolog 1 (Drosophila)	protein coding gene	16	+	72663149	73046095
+SMAD3	current symbol	MGI:1201674	Smad3	SMAD family member 3	protein coding gene	9	-	63646767	63757994
+Sox9	current symbol	MGI:98371	Sox9	SRY (sex determining region Y)-box 9	protein coding gene	11	+	112782224	112787760
+TCF12	current symbol	MGI:101877	Tcf12	transcription factor 12	protein coding gene	9	-	71842688	72111871
+Acta2	zebrafish symbol	MGI:104589	Actg2	actin, gamma 2, smooth muscle, enteric	protein coding gene	6	-	83512905	83536265
+Acta2	current symbol	MGI:87909	Acta2	actin, alpha 2, smooth muscle, aorta	protein coding gene	19	-	34241090	34255336
+ABCG2	current symbol	MGI:1347061	Abcg2	ATP-binding cassette, sub-family G (WHITE), member 2	protein coding gene	6	+	58584523	58692869
+ADAMTSL2	current symbol	MGI:1925044	Adamtsl2	ADAMTS-like 2	protein coding gene	2	+	27079379	27108981
+b2m	current symbol	MGI:88127	B2m	beta-2 microglobulin	protein coding gene	2	+	122147686	122153083
+C/EBP	rat synonym	MGI:104982	Cebpg	CCAAT/enhancer binding protein (C/EBP), gamma	protein coding gene	7	-	35046422	35056503
+ALDH1A1	current symbol	MGI:1353450	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	protein coding gene	19	+	20601961	20643462
+ATP1B1	current symbol	MGI:88108	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	protein coding gene	1	-	164437109	164458355
+1	UniGene	MGI:1339468	S100a10	S100 calcium binding protein A10 (calpactin)	protein coding gene	3	+	93555080	93564643
+3	HomoloGene	MGI:87867	Acadm	acyl-Coenzyme A dehydrogenase, medium chain	protein coding gene	3	-	153922357	153944632
+E-Cadherin	old name	MGI:88354	Cdh1	cadherin 1	protein coding gene	8	+	106603351	106670246
+Epcam	current symbol	MGI:106653	Epcam	epithelial cell adhesion molecule	protein coding gene	17	+	87635979	87651106
+EPHA3	current symbol	MGI:99612	Epha3	Eph receptor A3	protein coding gene	16	-	63545218	63864157
+F13A1	current symbol	MGI:1921395	F13a1	coagulation factor XIII, A1 subunit	protein coding gene	13	-	36867178	37050244
+gapdh	human symbol	MGI:5434255	Gapdh-ps15	glyceraldehyde-3-phosphate dehydrogenase, pseudogene 15	pseudogene	Y	+	38619783	38620784
+gapdh	current symbol	MGI:95640	Gapdh	glyceraldehyde-3-phosphate dehydrogenase	protein coding gene	6	-	125161715	125166467
+Igfbp3	current symbol	MGI:96438	Igfbp3	insulin-like growth factor binding protein 3	protein coding gene	11	-	7206086	7213923
+KRT18	current symbol	MGI:96692	Krt18	keratin 18	protein coding gene	15	+	102028216	102032026
+LOX	current symbol	MGI:96817	Lox	lysyl oxidase	protein coding gene	18	-	52516069	52529867
+PTGS2	current symbol	MGI:97798	Ptgs2	prostaglandin-endoperoxide synthase 2	protein coding gene	1	+	150100031	150108227
+RAGE	old symbol	MGI:1336881	Mok	MOK protein kinase	protein coding gene	12	-	110807798	110840939
+RAGE	synonym	MGI:893592	Ager	advanced glycosylation end product-specific receptor	protein coding gene	17	+	34597862	34600936
+TST	current symbol	MGI:98852	Tst	thiosulfate sulfurtransferase, mitochondrial	protein coding gene	15	-	78399556	78405859
+INMT	western clawed frog symbol	MGI:1099443	Nnmt	nicotinamide N-methyltransferase	protein coding gene	9	-	48591877	48605153
+INMT	current symbol	MGI:102963	Inmt	indolethylamine N-methyltransferase	protein coding gene	6	-	55170626	55175043
+CD38	current symbol	MGI:107474	Cd38	CD38 antigen	protein coding gene	5	+	43868809	43912375
+Chi3l1	old symbol	MGI:1340899	Chil1	chitinase-like 1	protein coding gene	1	+	134182176	134190181
+FOXF1	rat synonym	MGI:3028075	Foxi2	forkhead box I2	protein coding gene	7	+	135410367	135413615
+FOXF1	current symbol	MGI:1347470	Foxf1	forkhead box F1	protein coding gene	8	+	121084386	121088144
+FOXF2	current symbol	MGI:1347479	Foxf2	forkhead box F2	protein coding gene	13	+	31625816	31631403
+Nol3	current symbol	MGI:1925938	Nol3	nucleolar protein 3 (apoptosis repressor with CARD domain)	protein coding gene	8	+	105276447	105281939
+PDGFRA	current symbol	MGI:97530	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	protein coding gene	5	+	75152291	75198204
+PDGFRb	current symbol	MGI:97531	Pdgfrb	platelet derived growth factor receptor, beta polypeptide	protein coding gene	18	+	61045150	61085061
+PHGDH	current symbol	MGI:1355330	Phgdh	3-phosphoglycerate dehydrogenase	protein coding gene	3	-	98313170	98339990
+RARA	current symbol	MGI:97856	Rara	retinoic acid receptor, alpha	protein coding gene	11	+	98927818	98974942
+tbp	current symbol	MGI:101838	Tbp	TATA box binding protein	protein coding gene	17	+	15499888	15528379
+Thy1	current symbol	MGI:98747	Thy1	thymus cell antigen 1, theta	protein coding gene	9	+	44043384	44048579
+Vegf	old symbol	MGI:103178	Vegfa	vascular endothelial growth factor A	protein coding gene	17	-	46016993	46032369
+CD68	current symbol	MGI:88342	Cd68	CD68 antigen	protein coding gene	11	-	69664213	69666153
+ERB	human synonym	MGI:109392	Esr2	estrogen receptor 2 (beta)	protein coding gene	12	-	76120419	76177259
+FSP1	synonym	MGI:1330282	S100a4	S100 calcium binding protein A4	protein coding gene	3	+	90603771	90606045
+FSP1	synonym	MGI:1921241	Atl1	atlastin GTPase 1	protein coding gene	12	+	69893105	69964085
+GUCY1A2	current symbol	MGI:2660877	Gucy1a2	guanylate cyclase 1, soluble, alpha 2	protein coding gene	9	+	3532354	3897342
+8	UniGene	MGI:99542	Usf1	upstream transcription factor 1	protein coding gene	1	+	171411313	171419142
+ITgam	current symbol	MGI:96607	Itgam	integrin alpha M	protein coding gene	7	+	128062640	128128160
+ITGax	rat synonym	MGI:3578624	Itgad	integrin, alpha D	protein coding gene	7	+	128154376	128223816
+ITGax	current symbol	MGI:96609	Itgax	integrin alpha X	protein coding gene	7	+	128129547	128150656
+LFNG	current symbol	MGI:1095413	Lfng	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	protein coding gene	5	+	140607341	140615543
+LRAT	current symbol	MGI:1891259	Lrat	lecithin-retinol acyltransferase (phosphatidylcholine-retinol-O-acyltransferase)	protein coding gene	3	-	82892579	82903973
+Lrp2	current symbol	MGI:95794	Lrp2	low density lipoprotein receptor-related protein 2	protein coding gene	2	-	69424340	69586065
+MMP-3	human synonym	MGI:97010	Mmp3	matrix metallopeptidase 3	protein coding gene	9	+	7445822	7455972
+NME3	current symbol	MGI:1930182	Nme3	NME/NM23 nucleoside diphosphate kinase 3	protein coding gene	17	+	24896500	24897522
+Serpina3	human symbol	MGI:102848	Serpina3c	serine (or cysteine) peptidase inhibitor, clade A, member 3C	protein coding gene	12	-	104146382	104153870
+Serpina3	human symbol	MGI:98377	Serpina3k	serine (or cysteine) peptidase inhibitor, clade A, member 3K	protein coding gene	12	+	104338486	104346144
+Serpina3	human symbol	MGI:105045	Serpina3n	serine (or cysteine) peptidase inhibitor, clade A, member 3N	protein coding gene	12	+	104406729	104414329
+Serpina3	chicken symbol	MGI:1915304	Serpina12	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	protein coding gene	12	-	104028769	104044443
+Serpina3	human symbol	MGI:98378	Serpina3m	serine (or cysteine) peptidase inhibitor, clade A, member 3M	protein coding gene	12	+	104387164	104394257
+SNAI1	current symbol	MGI:98330	Snai1	snail family zinc finger 1	protein coding gene	2	+	167538195	167542814
+TBX4	current symbol	MGI:102556	Tbx4	T-box 4	protein coding gene	11	+	85886422	85916095
+TTF-1	human synonym	MGI:105044	Ttf1	transcription termination factor, RNA polymerase I	protein coding gene	2	+	29060262	29087656
+TTF-1	old symbol	MGI:108067	Nkx2-1	NK2 homeobox 1	protein coding gene	12	-	56531958	56536908
+ubc	human synonym	MGI:1925544	Rps27a	ribosomal protein S27A	protein coding gene	11	-	29545846	29548109
+ubc	western clawed frog symbol	MGI:98888	Ubb	ubiquitin B	protein coding gene	11	+	62551171	62553213
+ubc	current symbol	MGI:98889	Ubc	ubiquitin C	protein coding gene	5	-	125385965	125390202
+VIM	current symbol	MGI:98932	Vim	vimentin	protein coding gene	2	+	13573927	13582826
+DLK1	current symbol	MGI:94900	Dlk1	delta-like 1 homolog (Drosophila)	protein coding gene	12	+	109452823	109463336

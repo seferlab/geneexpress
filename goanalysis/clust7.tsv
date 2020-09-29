@@ -1,0 +1,39 @@
+# species: Mus musculus
+# support: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+# associations retrieved on: 2015-08-16 16:59:40-04
+# gofunc built on: 2014-08-29 20:00:45.229015-04
+# gene associations file: ftp://ftp.geneontology.org/pub/go/gene-associations/gene_association.mgi.gz
+#   revision: 06/05/2014 $
+#   downloaded on: 2014-06-23 12:15:18-04
+# GO DAG files from: http://archive.geneontology.org/latest-full/go_201404-termdb-tables.tar.gz
+#   downloaded on: 2014-04-28 17:00:50-04
+# translation required: yes
+# translation info:
+#   authority: ensembl
+#     synergizer db built on: 2014-02-26 11:38:08.723614-05
+#     synergizer db built from: Ensembl Genes 74 / Ensembl Metazoa Genes 21 / Ensembl Plants Genes 21
+#   namespace: mgi_symbol
+#   coverage: 100.0%
+# size of "genespace": 22607
+# number of attributes: 17970
+# NOTE: the last record consists of all the entities in the
+# "genespace" that are not associated with any attribute (for
+# the requested support).
+# Original number of entities in query: 24
+# Number of entities in query: 24
+# Total number of entities: 22618
+# Original total number of entities: 22607
+# Entities not in default gene space: 11
+# Total number of attributes: 17970
+# Translation required: yes
+# Translation coverage: 0.999722
+# Mode: unordered
+# Number of simulations: 1000
+# Adjusted P-value cutoff: 0.5
+# Over/under: over
+# Evidence codes: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+OVERREPRESENTED ATTRIBUTES
+N	X	LOD	P	P_adj	attrib ID	attrib name
+2	25	2.02825004957656	0.000318929431461436	0.271	GO:0008305	integrin complex
+2	39	1.82501718887265	0.000780643363817928	0.459	GO:0021782	glial cell development
+2	40	1.81356847388967	0.000821197867453621	0.471	GO:0006766	vitamin metabolic process

@@ -1,0 +1,45 @@
+# species: Mus musculus
+# support: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+# associations retrieved on: 2015-08-16 16:52:13-04
+# gofunc built on: 2014-08-29 20:00:45.229015-04
+# gene associations file: ftp://ftp.geneontology.org/pub/go/gene-associations/gene_association.mgi.gz
+#   revision: 06/05/2014 $
+#   downloaded on: 2014-06-23 12:15:18-04
+# GO DAG files from: http://archive.geneontology.org/latest-full/go_201404-termdb-tables.tar.gz
+#   downloaded on: 2014-04-28 17:00:50-04
+# translation required: yes
+# translation info:
+#   authority: ensembl
+#     synergizer db built on: 2014-02-26 11:38:08.723614-05
+#     synergizer db built from: Ensembl Genes 74 / Ensembl Metazoa Genes 21 / Ensembl Plants Genes 21
+#   namespace: mgi_symbol
+#   coverage: 100.0%
+# size of "genespace": 22607
+# number of attributes: 17970
+# NOTE: the last record consists of all the entities in the
+# "genespace" that are not associated with any attribute (for
+# the requested support).
+# Original number of entities in query: 31
+# Number of entities in query: 31
+# Total number of entities: 22627
+# Original total number of entities: 22607
+# Entities not in default gene space: 20
+# Total number of attributes: 17970
+# Translation required: yes
+# Translation coverage: 0.999722
+# Mode: unordered
+# Number of simulations: 1000
+# Adjusted P-value cutoff: 0.05
+# Over/under: over
+# Evidence codes: EXP, IMP, ISS, ISM, TAS, IEA, IDA, IGI, ISO, IGC, NAS, IPI, IEP, ISA, RCA, IC
+OVERREPRESENTED ATTRIBUTES
+N	X	LOD	P	P_adj	attrib ID	attrib name
+2	2	3.5831891643017	1.81655348305217e-06	0.012	GO:0005017	platelet-derived growth factor-activated receptor activity
+2	3	3.10604868961028	5.44500364915504e-06	0.021	GO:0038086	VEGF-activated platelet-derived growth factor receptor signaling pathway
+2	3	3.10604868961028	5.44500364915504e-06	0.021	GO:0038091	positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway
+2	3	3.10604868961028	5.44500364915504e-06	0.021	GO:0072277	metanephric glomerular capillary formation
+2	4	2.88418071917153	1.08806994613905e-05	0.031	GO:0038085	vascular endothelial growth factor binding
+2	4	2.88418071917153	1.08806994613905e-05	0.031	GO:0072104	glomerular capillary formation
+3	31	1.98788101928292	1.01976161054759e-05	0.027	GO:0043551	regulation of phosphatidylinositol 3-kinase activity
+3	37	1.90479130851822	1.75296007673848e-05	0.034	GO:0043550	regulation of lipid kinase activity
+4	110	1.53852932277835	1.50345867360934e-05	0.033	GO:0070374	positive regulation of ERK1 and ERK2 cascade
